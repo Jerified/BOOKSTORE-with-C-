@@ -1,0 +1,25 @@
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\bin\Debug\net8.0\appsettings.json
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\bin\Debug\net8.0\BOOKSTORE with C#.exe
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\bin\Debug\net8.0\BOOKSTORE with C#.deps.json
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\bin\Debug\net8.0\BOOKSTORE with C#.runtimeconfig.json
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\bin\Debug\net8.0\BOOKSTORE with C#.dll
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\bin\Debug\net8.0\BOOKSTORE with C#.pdb
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\BOOKSTORE with C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\BOOKSTORE with C#.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\BOOKSTORE with C#.AssemblyInfo.cs
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\BOOKSTORE with C#.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\BOOKSTORE with C#.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\staticwebassets\msbuild.BOOKSTORE with C#.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\staticwebassets\msbuild.build.BOOKSTORE with C#.props
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BOOKSTORE with C#.props
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BOOKSTORE with C#.props
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\scopedcss\bundle\BOOKSTORE with C#.styles.css
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\BOOKSTORE with C#.dll
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\refint\BOOKSTORE with C#.dll
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\BOOKSTORE with C#.pdb
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\BOOKSTORE with C#.genruntimeconfig.cache
+C:\Users\owner\Desktop\projects\BOOKSTORE with C#\obj\Debug\net8.0\ref\BOOKSTORE with C#.dll
